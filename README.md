@@ -5,6 +5,11 @@
 ## 構築手順
 
 ```bash
+# フォークする
+# Github上で作業を行ってください。
+# 参考: https://qiita.com/i35_267/items/83aa4adecf22e9c32f99
+# https://github.com/shouya0504/laravel8
+
 # cloneする
 $ git clone git@github.com:shouya0504/laravel8.git
 
